@@ -21,6 +21,8 @@ sites:
   url: genesysgroup.io
 - name: eos-elv-front
   url: myelv.io
+- name: treecoin-front
+  url: presale.thetreecoin.io
 - name: mfxbroker-api
   url: mfxbroker-api.kodexpay.com
 - name: space-api
@@ -33,6 +35,9 @@ sites:
   url: mfxprime-api.kodexpay.com
 - name: golden-api
   url: golden-api.kodexpay.com
+- name: treecoin-api
+  url: https://treecoin-api.kodexpay.com/
+
 
 status-website:
   cname: eos-services.kodexpay.com
