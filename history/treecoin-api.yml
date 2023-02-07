@@ -1,7 +1,7 @@
 url: https://treecoin-api.kodexpay.com/
-status: down
-code: 503
-responseTime: 229
-lastUpdated: 2023-02-07T16:41:27.505Z
+status: up
+code: 200
+responseTime: 62
+lastUpdated: 2023-02-07T17:44:40.858Z
 startTime: Mon Feb 06 2023 14:13:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
