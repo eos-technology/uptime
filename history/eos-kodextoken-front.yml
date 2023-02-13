@@ -1,7 +1,7 @@
 url: token.kodexpay.com
-status: down
-code: 403
-responseTime: 679
-lastUpdated: 2023-02-13T19:47:25.500Z
+status: up
+code: 200
+responseTime: 437
+lastUpdated: 2023-02-13T19:59:58.294Z
 startTime: Sun Feb 05 2023 15:53:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
