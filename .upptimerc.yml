@@ -3,45 +3,63 @@ repo: upptime
 sites:
 - name: web_kodexpay
   url: $WEB_KODEXPAY_URL
+  method: GET
 - name: eos_spaxe_front
   url: $EOS_SPAXE_FRONT_URL
+  method: GET
 - name: eos_space_front
   url: $EOS_SPACE_FRONT_URL
+  method: GET
 - name: eos_qtwswap_front
   url: $EOS_QTWSWAP_FRONT_URL
+  method: GET
 - name: eos_kodextoken_front
   url: $EOS_KODEXTOKEN_FRONT_URL
+  method: GET
 - name: eos_golden_token_front
   url: $EOS_GOLDEN_TOKEN_FRONT_URL
+  method: GET
 - name: eos_golden_landing
   url: $EOS_GOLDEN_LANDING_URL
+  method: GET
 - name: eos_golden_front
   url: $EOS_GOLDEN_FRONT_URL
+  method: GET
 - name: eos_genesys_front
   url: $EOS_GENESYS_FRONT_URL
+  method: GET
 - name: eos_elv_front
   url: $EOS_ELV_FRONT_URL
+  method: GET
 - name: treecoin_front
   url: $TREECOIN_FRONT_URL
+  method: GET
 - name: mfxbroker_api
   url: $MFXBROKER_API_URL
+  method: GET
 - name: space_api
   url: $SPACE_API_URL
+  method: GET
 - name: kodexpay_api
   url: $KODEXPAY_API_URL
+  method: GET
 - name: golden_token_api
   url: $GOLDEN_TOKEN_API_URL
+  method: GET
 - name: mfxprime_api
   url: $MFXPRIME_API_URL
+  method: GET
 - name: golden_api
   url: $GOLDEN_API_URL
+  method: GET
 - name: treecoin_api
   url: $TREECOIN_API_URL
 
 
 status_website:
--cname: eos_services.kodexpay.com
+  cname: eos_services.kodexpay.com
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-- name: Upptime Eos Services
+  method: GET
+  name: Upptime Eos Services
   introMessage: Estado de lo$Upptime Eos SERVICESs servicios de Kodexpay
