@@ -1,7 +1,7 @@
-url: presale.thetreecoin.io
+url: $TREECOIN_FRONT_URL
 status: up
 code: 200
-responseTime: 155
-lastUpdated: 2023-02-17T23:16:22.054Z
+responseTime: 577
+lastUpdated: 2023-03-01T04:14:24.891Z
 startTime: Mon Feb 06 2023 14:13:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
