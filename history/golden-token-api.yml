@@ -1,7 +1,7 @@
 url: $GOLDEN_TOKEN_API_URL
 status: up
 code: 200
-responseTime: 662
-lastUpdated: 2023-03-22T23:12:23.158Z
+responseTime: 408
+lastUpdated: 2023-03-23T23:15:25.017Z
 startTime: Sun Feb 05 2023 15:53:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
