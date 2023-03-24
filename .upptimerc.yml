@@ -54,6 +54,9 @@ sites:
   method: GET
 - name: treecoin_api
   url: $TREECOIN_API_URL
+- name: godacapital_api
+  url: $GODACAPITAL_API_URL
+
 
 
 status_website:
