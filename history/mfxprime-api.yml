@@ -1,7 +1,7 @@
 url: $MFXPRIME_API_URL
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2023-04-15T23:13:52.239Z
+status: down
+code: 503
+responseTime: 237
+lastUpdated: 2023-04-16T18:51:36.904Z
 startTime: Sun Feb 05 2023 15:53:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
