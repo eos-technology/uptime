@@ -1,7 +1,7 @@
 url: $MFXBROKER_API_URL
-status: down
-code: 502
-responseTime: 177
-lastUpdated: 2023-04-18T18:00:54.197Z
+status: up
+code: 200
+responseTime: 425
+lastUpdated: 2023-04-18T18:13:02.345Z
 startTime: Sun Feb 05 2023 15:53:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
