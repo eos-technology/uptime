@@ -1,7 +1,7 @@
 url: $SPACE_API_URL
-status: down
-code: 503
-responseTime: 395
-lastUpdated: 2023-06-16T15:18:16.610Z
+status: up
+code: 200
+responseTime: 8417
+lastUpdated: 2023-06-16T15:27:12.515Z
 startTime: Sun Feb 05 2023 15:53:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
