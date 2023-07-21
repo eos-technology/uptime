@@ -1,7 +1,7 @@
 url: $TREECOIN_API_URL
-status: down
-code: 503
-responseTime: 580
-lastUpdated: 2023-07-20T23:04:50.783Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2023-07-21T00:50:57.042Z
 startTime: Mon Feb 06 2023 14:13:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
