@@ -1,7 +1,7 @@
 url: $TREECOIN_FRONT_URL
-status: down
-code: 403
-responseTime: 877
-lastUpdated: 2023-07-20T23:04:42.288Z
+status: up
+code: 200
+responseTime: 570
+lastUpdated: 2023-07-21T00:50:45.595Z
 startTime: Mon Feb 06 2023 14:13:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
