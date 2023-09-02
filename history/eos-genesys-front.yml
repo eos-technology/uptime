@@ -1,7 +1,7 @@
 url: $EOS_GENESYS_FRONT_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-02T08:14:34.185Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2023-09-02T08:41:12.595Z
 startTime: 2023-02-05T15:53:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
