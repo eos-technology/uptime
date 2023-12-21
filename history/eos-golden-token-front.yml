@@ -1,7 +1,7 @@
 url: $EOS_GOLDEN_TOKEN_FRONT_URL
-status: down
-code: 403
-responseTime: 214
-lastUpdated: 2023-12-21T15:40:39.545Z
+status: up
+code: 200
+responseTime: 303
+lastUpdated: 2023-12-21T20:23:46.399Z
 startTime: 2023-02-05T15:53:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
