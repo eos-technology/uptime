@@ -1,7 +1,7 @@
 url: $GOLDEN_TOKEN_API_URL
 status: down
 code: 503
-responseTime: 482
-lastUpdated: 2023-12-20T23:15:10.083Z
+responseTime: 493
+lastUpdated: 2023-12-21T23:15:11.542Z
 startTime: 2023-02-05T15:53:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
