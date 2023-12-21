@@ -1,7 +1,7 @@
 url: $EOS_ELV_FRONT_URL
-status: down
-code: 403
-responseTime: 364
-lastUpdated: 2023-12-21T15:40:49.560Z
+status: up
+code: 200
+responseTime: 300
+lastUpdated: 2023-12-21T20:23:56.197Z
 startTime: 2023-02-05T15:53:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
