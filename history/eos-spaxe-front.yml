@@ -1,7 +1,7 @@
 url: $EOS_SPAXE_FRONT_URL
-status: down
-code: 403
-responseTime: 327
-lastUpdated: 2023-12-21T15:40:27.346Z
+status: up
+code: 200
+responseTime: 332
+lastUpdated: 2023-12-21T20:23:33.695Z
 startTime: 2023-02-05T15:53:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
