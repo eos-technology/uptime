@@ -1,7 +1,7 @@
 url: $GODACAPITAL_API_URL
-status: up
-code: 200
-responseTime: 358
-lastUpdated: 2023-12-21T20:36:37.930Z
+status: down
+code: 503
+responseTime: 141
+lastUpdated: 2023-12-21T22:30:36.025Z
 startTime: 2023-03-24T23:57:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
