@@ -1,7 +1,7 @@
 url: $KODEXPAY_API_URL
-status: down
-code: 503
-responseTime: 314
-lastUpdated: 2024-05-16T11:44:38.080Z
+status: up
+code: 200
+responseTime: 614
+lastUpdated: 2024-05-16T11:53:30.604Z
 startTime: 2023-02-05T15:53:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
