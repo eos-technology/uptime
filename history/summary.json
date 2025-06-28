@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kodexpay-api",
     "status": "up",
-    "uptime": "82.46%",
+    "uptime": "82.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.96%",
+    "uptimeYear": "60.02%",
     "time": 524,
-    "timeDay": 545,
-    "timeWeek": 430,
-    "timeMonth": 525,
-    "timeYear": 484,
+    "timeDay": 258,
+    "timeWeek": 377,
+    "timeMonth": 513,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2025-03-23": 178,
       "2025-03-22": 1440,
@@ -163,8 +163,7 @@
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
-      "2024-10-08": 865,
-      "2024-06-28": 775
+      "2024-10-08": 865
     }
   },
   {
@@ -179,10 +178,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 385,
-    "timeDay": 406,
-    "timeWeek": 318,
-    "timeMonth": 388,
-    "timeYear": 380,
+    "timeDay": 358,
+    "timeWeek": 303,
+    "timeMonth": 386,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-03-21": 1356,
       "2025-03-20": 1440,
@@ -195,18 +194,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "treecoin-api",
     "status": "down",
-    "uptime": "49.91%",
+    "uptime": "49.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.40%",
-    "time": 461,
-    "timeDay": 388,
-    "timeWeek": 389,
-    "timeMonth": 523,
+    "time": 460,
+    "timeDay": 270,
+    "timeWeek": 338,
+    "timeMonth": 509,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-06-27": 122,
+      "2025-06-28": 118,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -569,8 +569,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   }
 ]
